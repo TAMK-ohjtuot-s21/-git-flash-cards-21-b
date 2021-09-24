@@ -6,7 +6,7 @@ Varaa lappu itsellesi - sulkuihin nimi
 Oksien nimeäminen: "feature-<nimi>-<id>" 
 
 ## Suunnitelma vinkkikorteista:
-* Perus lokaali käyttö - git add + commit  ()
+* Perus lokaali käyttö - git add + commit  (Petteri)
 * Git log-komento
 * Merge FF
 * Merge 3-way
